@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - platformManager
+  - defaultPlatformTag
+  - DeathPlatform
+  - MovingPlatform
+  - DefaultPlarform
+  - Boostplatform
+  - BrokenPlatform
+  - DisappearingPlatform
+  - DefaultPlatform
+  - DisappearingPlaform
+  - BoostPlatform
+  - Undefined
+  - Character
+  - RotatingPlatform
+  - ScalingPlatform
+  - Snake
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
